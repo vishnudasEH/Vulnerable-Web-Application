@@ -21,8 +21,8 @@
 	</div>
 
 <?php
-	$servername = "localhost";
-	$username = "root";
+	$servername = "";
+	$username = "";
 	$password = "";
 	$db = "1ccb8097d0e9ce9f154608be60224c7c";
 
